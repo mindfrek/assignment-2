@@ -1,0 +1,95 @@
+.main-div {
+  border: 1px solid lightgray;
+  border-radius: 14px;
+  width: 550px;
+  height: 460px;
+  margin: 20px auto;
+}
+.img-div {
+  position: relative;
+  margin: 0;
+}
+.main-img {
+  width: 525px;
+  height: 300px;
+  padding: 10px 13px;
+  margin: 5px auto;
+  object-fit: cover;
+  border-radius: 20px;
+}
+.ovrly-text1 {
+  position: absolute;
+  top: 260px;
+  left: 13px;
+  color: white;
+  background-color: rgb(35, 103, 230);
+  font-size: 22px;
+  font-weight: 200;
+  font-family: sans-serif;
+  padding: 4px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+.ovrly-text2 {
+  position: absolute;
+  top: 260px;
+  right: 25px;
+  background-color: white;
+  color: rgb(14, 13, 13);
+  font-size: 22px;
+  font-weight: 300px;
+  padding: 4px;
+  font-family: sans-serif;
+  border-radius: 8px;
+}
+.ovrly-text3 {
+  position: absolute;
+  top: 22px;
+  left: 30px;
+  background-color: rgba(184, 184, 184, 0.842);
+  color: rgb(12, 11, 11);
+  font-size: 17px;
+  font-weight: lighter;
+  font-family: sans-serif;
+  padding: 4px;
+  border-radius: 5px;
+}
+.name {
+  font-family: "Mukta", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 24px;
+  color: black;
+  position: absolute;
+  left: 13px;
+  top: 315px;
+}
+.type {
+  font-family: "Mukta", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 22px;
+  color: rgb(112, 112, 112);
+  position: absolute;
+  left: 13px;
+  top: 350px;
+}
+.maxsafety-div {
+  position: relative;
+  margin: 0;
+}
+.maxsafety {
+  position: absolute;
+  top: 440px;
+  left: 540px;
+  width: 75px;
+}
+.last-safety {
+  position: absolute;
+  top: 440px;
+  left: 620px;
+  font-family: "Mukta", sans-serif;
+  font-weight: 500;
+  font-size: large;
+  font-style: normal;
+}
