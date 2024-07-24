@@ -1,0 +1,30 @@
+.main_bg {
+  position: absolute;
+  top: 130px;
+  left: 100px;
+  background-color: white;
+  color: white;
+  width: 320px;
+  height: 27px;
+  border-radius: 5px;
+}
+.main_img {
+  width: 475px;
+  height: 200px;
+  object-fit: cover;
+  position: relative;
+}
+.zomato {
+  position: absolute;
+  width: 130px;
+  top: 0;
+  left: 170px;
+}
+.sub_heading {
+  position: absolute;
+  top: 90px;
+  left: 80px;
+  color: white;
+  font-family: sans-serif;
+  font-size: 18px;
+}
